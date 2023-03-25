@@ -26,9 +26,9 @@ Run the following commands on your machine.
     ./game <seed1>
     ./tgame <seed2>
 
-```
 
-    Where seed is a variable to initialize the psuedorandom function which sets the initial condition on the board.
+
+Where seed is a variable to initialize the psuedorandom function which sets the initial condition on the board.
 
 3. To verify output, use (using the same seed)
 ```
